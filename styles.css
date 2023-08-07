@@ -118,3 +118,9 @@ a {
 .w3-grey {
     background-color: #FFF;
 }
+
+.sub-buttons {
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: space-evenly;
+}
